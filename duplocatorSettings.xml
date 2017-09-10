@@ -1,0 +1,24 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="ECMAScript 6" />
+        <option value="Flow JS" />
+        <option value="JSX Harmony" />
+        <option value="JavaScript" />
+        <option value="Ruby" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="Flow JS" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="CoffeeScript">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+    <object language="Flow JS">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+  </component>
+</application>

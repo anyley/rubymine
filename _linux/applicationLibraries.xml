@@ -2782,6 +2782,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rb-inotify-0.9.8/lib" />
       </SOURCES>
     </library>
+    <library name="rbtree (v0.4.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rbtree-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rbtree-0.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="redis (v3.3.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/redis-3.3.1/lib" />

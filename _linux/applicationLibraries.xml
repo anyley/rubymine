@@ -32,6 +32,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/actioncable-5.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="actioncable (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actioncable-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actioncable-5.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer (v0.6.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/actionmailer-0.6.1/lib" />
@@ -78,6 +86,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/actionmailer-5.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actionmailer-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actionmailer-5.1.4/lib" />
       </SOURCES>
     </library>
     <library name="actionpack (v1.4.0, ruby-2.3.1-p112) [gem]">
@@ -136,6 +152,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/actionpack-5.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="actionpack (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actionpack-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actionpack-5.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="actionview (v4.2.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/actionview-4.2.5/lib" />
@@ -182,6 +206,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/actionview-5.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actionview-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/actionview-5.1.4/lib" />
       </SOURCES>
     </library>
     <library name="active_model_serializers (v0.10.5, ruby-2.3.1-p112) [gem]">
@@ -236,6 +268,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/activejob-5.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="activejob (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activejob-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activejob-5.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel (v4.2.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/activemodel-4.2.5/lib" />
@@ -276,6 +316,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/activemodel-5.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activemodel-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activemodel-5.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activerecord (v4.2.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/activerecord-4.2.5/lib" />
@@ -314,6 +362,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/activerecord-5.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activerecord-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activerecord-5.1.4/lib" />
       </SOURCES>
     </library>
     <library name="activesupport (v4.2.5, ruby-2.3.1-p112) [gem]">
@@ -364,6 +420,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/activesupport-5.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="activesupport (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activesupport-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/activesupport-5.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="addressable (v2.5.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.0/lib" />
@@ -386,6 +450,18 @@
         <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.1/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.1/data" />
         <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.1/tasks" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.5.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/data" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/data" />
+        <root url="file:///var/lib/gems/2.3.0/gems/addressable-2.5.2/tasks" />
       </SOURCES>
     </library>
     <library name="amq-protocol (v2.0.1, ruby-2.3.1-p112) [gem]">
@@ -514,6 +590,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/autoprefixer-rails-6.5.0.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/autoprefixer-rails-6.5.0.2/vendor" />
+      </SOURCES>
+    </library>
+    <library name="autoprefixer-rails (v7.1.5, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/autoprefixer-rails-7.1.5/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/autoprefixer-rails-7.1.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/autoprefixer-rails-7.1.5/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/autoprefixer-rails-7.1.5/vendor" />
       </SOURCES>
     </library>
     <library name="aws-sdk (v2.8.11, ruby-2.3.1-p112) [gem]">
@@ -760,6 +846,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/capybara-2.15.1/.yard" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.15.3, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/capybara-2.15.3/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/capybara-2.15.3/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/capybara-2.15.3/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/capybara-2.15.3/.yard" />
+      </SOURCES>
+    </library>
     <library name="case_transform (v0.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/case_transform-0.2/lib" />
@@ -792,6 +888,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/childprocess-0.7.1/lib" />
       </SOURCES>
     </library>
+    <library name="childprocess (v0.8.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/childprocess-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/childprocess-0.8.0/lib" />
+      </SOURCES>
+    </library>
     <library name="choice (v0.2.0, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/choice-0.2.0/lib" />
@@ -818,6 +922,16 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.1/bin" />
         <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/coderay-1.1.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-rails (v4.1.1, ruby-2.3.1-p112) [gem]">
@@ -1812,6 +1926,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/loofah-2.1.0.rc2/benchmark" />
       </SOURCES>
     </library>
+    <library name="loofah (v2.1.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/loofah-2.1.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/loofah-2.1.1/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/loofah-2.1.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/loofah-2.1.1/benchmark" />
+      </SOURCES>
+    </library>
     <library name="lumberjack (v1.0.10, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/lumberjack-1.0.10/lib" />
@@ -1926,6 +2050,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/mini_portile2-2.2.0.rc1/lib" />
       </SOURCES>
     </library>
+    <library name="mini_portile2 (v2.3.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/mini_portile2-2.3.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.10.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/minitest-5.10.1/lib" />
@@ -1964,6 +2098,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.12.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/multi_json-1.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/multi_json-1.12.2/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml (v0.5.5, ruby-2.3.1-p112) [gem]">
@@ -2160,6 +2302,26 @@
         <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.0/suppressions" />
       </SOURCES>
     </library>
+    <library name="nokogiri (v1.8.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.1" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/tasks" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/patches" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/nokogiri/1.8.1" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/ext" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/tasks" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/patches" />
+        <root url="file:///var/lib/gems/2.3.0/gems/nokogiri-1.8.1/suppressions" />
+      </SOURCES>
+    </library>
     <library name="notiffany (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/notiffany-0.1.1/lib" />
@@ -2330,6 +2492,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/poltergeist-1.14.0/lib" />
       </SOURCES>
     </library>
+    <library name="popper_js (v1.11.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/popper_js-1.11.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/popper_js-1.11.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/popper_js-1.11.1/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/popper_js-1.11.1/assets" />
+      </SOURCES>
+    </library>
     <library name="powerpack (v0.1.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/powerpack-0.1.1/lib" />
@@ -2356,6 +2528,16 @@
         <root url="file:///var/lib/gems/2.3.0/gems/pry-0.10.4/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.11.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-0.11.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-0.11.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-0.11.1/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-0.11.1/lib" />
+      </SOURCES>
+    </library>
     <library name="pry-byebug (v3.4.2, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/pry-byebug-3.4.2/lib" />
@@ -2372,6 +2554,16 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/pry-rails-0.3.4/lib" />
         <root url="file:///var/lib/gems/2.3.0/gems/pry-rails-0.3.4/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="pry-rails (v0.3.6, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-rails-0.3.6/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-rails-0.3.6/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-rails-0.3.6/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/pry-rails-0.3.6/gemfiles" />
       </SOURCES>
     </library>
     <library name="pry-rake (v0.0.3, ruby-2.3.1-p112) [gem]">
@@ -2528,6 +2720,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rack-test-0.6.3/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v0.7.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-test-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rack-test-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails (v0.9.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file:///var/lib/gems/2.3.0/gems/rails-0.9.5/bin" />
@@ -2590,6 +2790,14 @@
         <root url="file:///var/lib/gems/2.3.0/gems/rails-5.1.3" />
       </SOURCES>
     </library>
+    <library name="rails (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rails-5.1.4" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/rails-5.1.4" />
+      </SOURCES>
+    </library>
     <library name="rails-deprecated_sanitizer (v1.0.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/rails-deprecated_sanitizer-1.0.3/lib" />
@@ -2647,6 +2855,10 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rails-html-sanitizer-1.0.3/lib" />
       </SOURCES>
+    </library>
+    <library name="rails-pry (v0.0.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="railties (v4.2.5, ruby-2.3.1-p112) [gem]">
       <CLASSES>
@@ -2706,6 +2918,16 @@
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/railties-5.1.3/exe" />
         <root url="file:///var/lib/gems/2.3.0/gems/railties-5.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties (v5.1.4, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/railties-5.1.4/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/railties-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/railties-5.1.4/exe" />
+        <root url="file:///var/lib/gems/2.3.0/gems/railties-5.1.4/lib" />
       </SOURCES>
     </library>
     <library name="rainbow (v2.0.0, ruby-2.3.1-p112) [gem]">
@@ -2862,6 +3084,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/rbtree-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="react-rails (v2.3.0, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/react-rails-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/react-rails-2.3.0/lib" />
       </SOURCES>
     </library>
     <library name="redis (v3.3.1, ruby-2.3.1-p112) [gem]">
@@ -3252,6 +3482,20 @@
         <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.1/rails" />
       </SOURCES>
     </library>
+    <library name="sass (v3.5.2, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/extra" />
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/bin" />
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/lib" />
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/extra" />
+        <root url="file:///var/lib/gems/2.3.0/gems/sass-3.5.2/rails" />
+      </SOURCES>
+    </library>
     <library name="sass (v4.0.0.alpha.1, ruby-2.3.1-p112) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.3.0/gems/sass-4.0.0.alpha.1/bin" />
@@ -3586,6 +3830,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file:///var/lib/gems/2.3.0/gems/sprockets-rails-3.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets-rails (v3.2.1, ruby-2.3.1-p112) [gem]">
+      <CLASSES>
+        <root url="file:///var/lib/gems/2.3.0/gems/sprockets-rails-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///var/lib/gems/2.3.0/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
     </library>
     <library name="sqlite3 (v1.3.11, ruby-2.3.1-p112) [gem]">

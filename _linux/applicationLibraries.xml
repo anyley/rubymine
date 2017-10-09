@@ -310,6 +310,7 @@
     </library>
     <library name="eventmachine (v1.2.3, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.3" />
         <root url="file:///var/lib/gems/2.4.0/gems/eventmachine-1.2.3/ext" />
         <root url="file:///var/lib/gems/2.4.0/gems/eventmachine-1.2.3/lib" />
         <root url="file:///var/lib/gems/2.4.0/gems/eventmachine-1.2.3/java" />
@@ -317,6 +318,7 @@
         <root url="file:///var/lib/gems/2.4.0/gems/eventmachine-1.2.3/rakelib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/eventmachine/1.2.3" />
         <root url="file:///var/lib/gems/2.4.0/gems/eventmachine-1.2.3/ext" />
         <root url="file:///var/lib/gems/2.4.0/gems/eventmachine-1.2.3/lib" />
         <root url="file:///var/lib/gems/2.4.0/gems/eventmachine-1.2.3/java" />
@@ -622,11 +624,13 @@
     </library>
     <library name="oj (v3.0.10, ruby-2.3.1-p112) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/3.0.10" />
         <root url="file:///var/lib/gems/2.4.0/gems/oj-3.0.10/ext" />
         <root url="file:///var/lib/gems/2.4.0/gems/oj-3.0.10/lib" />
         <root url="file:///var/lib/gems/2.4.0/gems/oj-3.0.10/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs23/oj/3.0.10" />
         <root url="file:///var/lib/gems/2.4.0/gems/oj-3.0.10/ext" />
         <root url="file:///var/lib/gems/2.4.0/gems/oj-3.0.10/lib" />
         <root url="file:///var/lib/gems/2.4.0/gems/oj-3.0.10/pages" />

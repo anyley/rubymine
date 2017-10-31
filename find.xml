@@ -7,13 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.sass" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
       <mask>*.ысыы</mask>
@@ -32,13 +26,18 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.saas</mask>
       <mask>*.saa</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.ьши</mask>
+      <mask>*.ьш</mask>
+      <mask>*.ь</mask>
+      <mask>*.</mask>
+      <mask>*.mi</mask>
+      <mask>*.mib</mask>
     </recentFileMasks>
   </component>
 </application>

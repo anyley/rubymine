@@ -7,36 +7,37 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
       <mask>*.as</mask>
-      <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.ысыы</mask>
       <mask>*.ысы</mask>
       <mask>*.ыс</mask>
       <mask>*.ы</mask>
+      <mask>*.оы</mask>
+      <mask>*.о</mask>
+      <mask>*.r</mask>
+      <mask>*.rb</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.оы</mask>
-      <mask>*.о</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.saas</mask>
       <mask>*.saa</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
-      <mask>*.r</mask>
-      <mask>*.rb</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
+      <mask>*.ьши</mask>
+      <mask>*.ьш</mask>
+      <mask>*.ь</mask>
+      <mask>*.</mask>
+      <mask>*.mi</mask>
+      <mask>*.mib</mask>
     </recentFileMasks>
   </component>
 </application>

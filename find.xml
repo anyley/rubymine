@@ -17,7 +17,6 @@
       <mask>*.оы</mask>
       <mask>*.о</mask>
       <mask>*.r</mask>
-      <mask>*.rb</mask>
       <mask>*.j</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
@@ -38,6 +37,7 @@
       <mask>*.mi</mask>
       <mask>*.mib</mask>
       <mask>*.js</mask>
+      <mask>*.rb</mask>
     </recentFileMasks>
   </component>
 </application>

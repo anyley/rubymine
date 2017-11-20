@@ -360,6 +360,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/byebug-9.0.6/lib" />
       </SOURCES>
     </library>
+    <library name="byebug (v9.1.0, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/byebug-9.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/byebug-9.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/byebug-9.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/byebug-9.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/byebug-9.1.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/byebug-9.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.1.1, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/coderay-1.1.1/bin" />
@@ -2148,6 +2160,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/responders-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="roda (v3.1.0, RVM: ruby-2.4.0 [rpcm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/roda-3.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/roda-3.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec (v3.5.0, RVM: ruby-2.4.0 [rpcm]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/rspec-3.5.0/lib" />
@@ -2764,6 +2784,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/timezone-1.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/timezone-1.2.9/data" />
+      </SOURCES>
+    </library>
+    <library name="tus-server (v2.0.1, RVM: ruby-2.4.0 [rpcm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/tus-server-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/tus-server-2.0.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="tus-server (v2.0.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tus-server-2.0.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/tus-server-2.0.1/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo (v1.2.2, RVM: ruby-2.4.1) [gem]">

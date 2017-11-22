@@ -826,6 +826,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/jwt-1.5.6/lib" />
       </SOURCES>
     </library>
+    <library name="method_source (v0.8.1, RVM: ruby-2.4.0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/method_source-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/method_source-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="method_source (v0.9.0, RVM: ruby-2.4.0 [rpcm]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/method_source-0.9.0/lib" />

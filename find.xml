@@ -24,12 +24,8 @@
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.saas</mask>
       <mask>*.saa</mask>
-      <mask>*.sa</mask>
-      <mask>*.sas</mask>
-      <mask>*.sass</mask>
       <mask>*.ьши</mask>
       <mask>*.ьш</mask>
       <mask>*.ь</mask>
@@ -38,6 +34,10 @@
       <mask>*.mib</mask>
       <mask>*.rb</mask>
       <mask>*.js</mask>
+      <mask>*.s</mask>
+      <mask>*.sa</mask>
+      <mask>*.sas</mask>
+      <mask>*.sass</mask>
     </recentFileMasks>
   </component>
 </application>

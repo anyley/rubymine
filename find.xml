@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.as</mask>
       <mask>*.mxml</mask>
@@ -33,11 +34,11 @@
       <mask>*.mi</mask>
       <mask>*.mib</mask>
       <mask>*.rb</mask>
-      <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.sa</mask>
       <mask>*.sas</mask>
       <mask>*.sass</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>

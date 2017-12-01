@@ -9,6 +9,7 @@
       <mapping pattern=".goutputstream-9XLFNY" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern=".eslint.swp" type="PLAIN_TEXT" />
+      <mapping ext="snap" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

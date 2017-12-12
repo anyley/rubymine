@@ -1,0 +1,22 @@
+<keymap version="1" name="Default for XWin copy 1" parent="Default for XWin">
+  <action id="CollapseSelection" />
+  <action id="EditorChooseLookupItemDot" />
+  <action id="EditorScrollToCenter" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+</keymap>

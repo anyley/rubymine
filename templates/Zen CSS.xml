@@ -1,0 +1,13 @@
+<templateSet group="Zen CSS">
+  <template name="bxz:bb" value="box-sizing:border-box;" description="box-sizing:border-box;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+  <template name="media" value="$entry$&#10;&#10;@media only screen and (max-width: 605px) {&#10;}&#10;&#10;@media only screen and (min-width: 606px) and (max-width: 1254px) {&#10;}&#10;&#10;@media only screen and (min-width: 1255px) and (max-width: 1439px) {&#10;}&#10;&#10;@media only screen and (min-width: 1440px) {&#10;}&#10;" description="RPCM media ranges" toReformat="false" toShortenFQNames="true">
+    <variable name="entry" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="true" />
+    </context>
+  </template>
+</templateSet>

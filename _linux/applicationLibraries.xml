@@ -208,6 +208,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/columnize-0.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.4.0 [rpcm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/concurrent-ruby-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/concurrent-ruby-1.0.5/lib" />
+      </SOURCES>
+    </library>
     <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.4.0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/concurrent-ruby-1.0.5/lib" />
@@ -682,6 +690,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0/gems/http_parser.rb-0.6.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.9.1, RVM: ruby-2.4.0 [rpcm]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/i18n-0.9.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/i18n-0.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/i18n-0.9.1/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.0@rpcm/gems/i18n-0.9.1/lib" />
       </SOURCES>
     </library>
     <library name="i18n (v0.9.1, RVM: ruby-2.4.0) [gem]">

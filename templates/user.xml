@@ -1,0 +1,16 @@
+<templateSet group="user">
+  <template name="fm" value="&lt;FormattedMessage id=&quot;$1$&quot; /&gt;$2$" description="FormattedMessage" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSX_HTML" value="true" />
+    </context>
+  </template>
+  <template name="ifm" value="formatMessage({ id: '$1$' })$2$" description="FormattedMessage" toReformat="false" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

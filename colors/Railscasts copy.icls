@@ -1,5 +1,13 @@
 <scheme name="Railscasts copy" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0833334" />
+  <metaInfo>
+    <property name="description" />
+    <property name="modified">2018-03-30T08:15:39</property>
+    <property name="vendorMail" />
+    <property name="vendorName" />
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
+  </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="18" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />

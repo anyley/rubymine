@@ -2,7 +2,7 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="description" />
-    <property name="modified">2019-03-09T16:30:47</property>
+    <property name="modified">2019-04-23T08:45:18</property>
     <property name="vendorMail" />
     <property name="vendorName" />
     <property name="vendorUrl">http://</property>
@@ -729,6 +729,12 @@
     <option name="GHERKIN_TAG">
       <value>
         <option name="FOREGROUND" value="cc7833" />
+      </value>
+    </option>
+    <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="a2a2a2" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="GQL_ID">

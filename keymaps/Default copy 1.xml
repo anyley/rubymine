@@ -3,4 +3,11 @@
   <action id="EditSelectWordGroup">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
 </keymap>

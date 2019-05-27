@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="&lt;noname&gt;">
+      <action id="PlaybackLastMacro" />
+      <action id="EditorEnter" />
+      <action id="EditorTab" />
+      <action id="EditorLeft" />
+      <action id="EditorDeleteToWordStart" />
+      <typing text-keycode="70:0;65:0;76:0;83:0;69:0">false</typing>
+    </macro>
+  </component>
+</application>

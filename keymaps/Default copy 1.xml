@@ -1,5 +1,7 @@
 <keymap version="1" name="Default copy 1" parent="Mac OS X 10.5+">
   <action id="CloseContent" />
+  <action id="Console.Execute.Multiline" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSelectWordGroup">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
@@ -7,7 +9,15 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
+  <action id="EditorSplitLine" />
+  <action id="PlaybackLastMacro">
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="alt space" />
   </action>
+  <action id="StartStopMacroRecording">
+    <keyboard-shortcut first-keystroke="meta #10000a7" />
+  </action>
+  <action id="ViewSource" />
 </keymap>

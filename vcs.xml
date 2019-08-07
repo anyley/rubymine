@@ -18,6 +18,10 @@
           <option name="url" value="http://g.stagingstuff.com:8443" />
           <option name="userName" value="kobzarvs" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.heather.loc" />
+          <option name="userName" value="vkobzar" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RubymineProjects" />
